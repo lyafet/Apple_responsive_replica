@@ -1,5 +1,4 @@
 /* General Styling*/
-
 body {
 	font-family: 'Montserrat', sans-serif;
 }
@@ -22,7 +21,6 @@ img {
 	margin-top: 50px;
 }
 /* Header Style */
-
 .nav-wrapper {
   background: rgba(0,0,0,0.8);
   font-size: 0.85em;
@@ -41,7 +39,6 @@ img {
 }
 
 /* Footer Styling */
-
 .footer-wrapper {
   background-color: #f5f5f7;
   color: #86868b;
@@ -105,7 +102,6 @@ img {
 	color: #515154;
 }
 /*Sixth Section*/
-
 .sixth-heghlight-wrapper .left-side-wrapper .left-side-container{
 	background-image:  url("../images/home/spyder.jpg"); 
 	background-color: #000;
@@ -210,7 +206,6 @@ img {
 	padding: 10px 0;
 }
 /*Fifth Section*/
-
 .fifth-heghlight-wrapper .left-side-wrapper .left-side-container{
 	background-image:  url("../images/home/actors.jpg"); 
 	background-color: #000;
@@ -245,7 +240,6 @@ img {
 	padding: 340px 0 0px;
 }
 /* Fourth section */
-
 .fourth-heghlight-wrapper .left-side-wrapper .left-side-container{
 	background-image:  url("../images/home/iphone11-colored.jpg"); 
 	background-color: #000;
@@ -268,7 +262,6 @@ img {
     max-width: 380px;
 }
 /*Third section*/
-
 .third-hightlight-wrapper {
 	background-image: url("../images/home/iphone11-pro-bg.jpg");
 	height: 580px;
@@ -280,7 +273,6 @@ img {
 	color: #fff;
 }
 /*Second section*/
-
 .second-hightlight-wrapper {
 	background-image: url("../images/home/macbookair-new-sm.jpg");
 	height: 580px;
@@ -294,7 +286,6 @@ img {
 	margin-bottom: 10px;	
 }
 /*First Section*/
-
 .first-hightlight-wrapper{
 	background-image: url("../images/home/ipodPronew-sm.jpg");
 	height: 580px;
@@ -316,7 +307,6 @@ img {
   padding-top: 310px;
 }
 /* Alert section */
-
 .alert-section {
 	text-align: center;
 	padding: 20px;
@@ -332,7 +322,6 @@ img {
 }
 /*Media Query*/
 /* Footer */
-
 @media (max-width: 768px){
 	.footer-links-wrapper ul {
 		display: none;
